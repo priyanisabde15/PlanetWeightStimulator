@@ -1,6 +1,6 @@
 # PlanetWeightStimulator
 # 🌍 Planetary Force Calculator
-A very simple, very beginner friendly project. 
+A very simple, very beginner friendly mini - project. 
 
 Ever wondered how much you'd weigh on Mars? This interactive web app calculates gravitational force using Newton's second law (F = ma) for different planets. Just click a planet, enter your mass, and discover your weight across the solar system!
 
